@@ -1,0 +1,4 @@
+id,name,age
+1a,Ixtiyor,22
+2,Baxtiyor,42
+3,Xurmat,21

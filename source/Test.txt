@@ -1,0 +1,7 @@
+id,name,email
+1,Ixtiyor,ixtiyor1@gmail.com
+2,IXtiyor,ixtiyor2@gmail.com
+3,IXTiyor,ixtiyor3@gmail.com
+1,Ixtiyor,ixtiyor1@gmail.com
+2,IXtiyor,ixtiyor2@gmail.com
+3,IXTiyor,ixtiyor3@gmail.com
